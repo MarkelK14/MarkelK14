@@ -24,3 +24,10 @@ Y las que estoy aprendiendo, aunque ya tengo conocimientos de algunas de ellas (
 > Los elementos marcados con * son los que ya tengo conocimiento previo.
 
 A parte de todo esto, también estoy aprendiendo testing y despliegue de aplicaciones.
+
+
+## 📈 My GitHub Stats 
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkelK14&show_icons=true&theme=dark)](https://github.com/MarkelK14/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkelK14&layout=compact&theme=dark)](https://github.com/MarkelK14/github-readme-stats)
