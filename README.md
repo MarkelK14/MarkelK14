@@ -1,12 +1,26 @@
-## Hey! 👋
+# Hey! 👋
 
-Me llamo Markel, y soy desarrollador de software desde 2022. Voy dejando por aquí tantos proyectos de aprendizaje como proyectos personales.
+¿Qué tal? Me llamo Markel, y soy desarrollador de software desde 2022. Voy dejando por aquí tantos proyectos de aprendizaje como proyectos personales.
 
-Las tecnologías que más manejo son las siguientes:
+Las tecnologías con las que trabajo a diario son las siguientes:
+- VB .Net
+- C#
+- Microsoft SQL Server Integration Services (SSIS)
+- SQL Server 
 
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png?f=webp" alt="html5" width="65" height="65"/>
+Y las que estoy aprendiendo, aunque ya tengo conocimientos de algunas de ellas (*):
 
-<figure>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png?f=webp" alt="html5" width="65" height="65"/>
-  <figcaption style="font-style: italic;">HTML5</figcaption>
-</figure>
+- HTML5*
+- CSS3*
+- JavaScript*
+- TypeScript
+- Angular
+- MongoDB
+- MySQL*
+- Node JS
+- Express JS
+
+>[!NOTE]
+> Los elementos marcados con * son los que ya tengo conocimiento previo.
+
+A parte de todo esto, también estoy aprendiendo testing y despliegue de aplicaciones.
