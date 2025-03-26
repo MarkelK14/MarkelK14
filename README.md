@@ -107,7 +107,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My GitHub Stats :</h3>
 
 ###
 
@@ -121,6 +121,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MarkelK14/MarkelK14/output/snake.svg" alt="Snake animation" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkelK14&show_icons=true&theme=github_dark)](https://github.com/MarkelK14/github-readme-stats)>
 
 ###
