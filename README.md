@@ -121,6 +121,4 @@
 
 <br clear="both">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkelK14&show_icons=true&theme=github_dark)](https://github.com/MarkelK14/github-readme-stats)>
-
 ###
