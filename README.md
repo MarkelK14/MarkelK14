@@ -30,7 +30,7 @@
 <section align="left">
     <h2>🛠 Stack</h2>
     <div>
-        <h4>Front end</h4>
+        <h4>Frontend</h4>
         <img alt="Static Badge" src="https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html&logoColor=white">
         <img alt="Static Badge" src="https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css&logoColor=white">
         <img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-%238348db?style=for-the-badge&logo=bootstrap&logoColor=white">
