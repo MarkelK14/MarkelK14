@@ -2,13 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&width=435&lines=Hey+there!+I'm+Markel;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" href="https://www.linkedin.com/in/markel-cortajarena/" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  href="mailto:markelkortajarena@gmail.com"/>
-</div>
-
 <section align="left">
     <h2>👩‍💻 About Me</h2>
     <ul>
@@ -71,6 +64,6 @@
 <section align="left">
     <h3>🔥   My GitHub Stats :</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=MarkelK14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarkelK14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-    <img src="https://streak-stats.demolab.com?user=MarkelK14&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+    <br>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarkelK14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </section>
