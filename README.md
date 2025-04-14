@@ -5,7 +5,7 @@
 <section align="left">
     <h2>👩‍💻 About Me</h2>
     <ul>
-        <li>🔭 I’m working as RPA Developer</li>
+        <li>🔭 I'm currently working as an RPA developer</li>
         <li>📚 I am currently studying to become a Full Stack Developer</li>
     </ul>
 </section>
