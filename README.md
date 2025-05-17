@@ -23,32 +23,37 @@
 <section align="left">
     <h2>🛠 Stack</h2>
     <div>
-        <h4>Frontend</h4>
+        <h4>🎨 Frontend</h4>
         <img alt="Static Badge" src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img alt="Static Badge" src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white">
-        <img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-%238348db?style=for-the-badge&logo=bootstrap&logoColor=white">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white">
         <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
         <img alt="Static Badge" src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white">
     </div>
     <div>
-        <h4>Frontend frameworks</h4>
+        <h4>🧩 Frontend frameworks</h4>
         <img alt="Static Badge" src="https://img.shields.io/badge/Angular-DD1100?style=for-the-badge&logo=angular">
         <img alt="Static Badge" src="https://img.shields.io/badge/Astro-%23F55B23?style=for-the-badge&logo=Astro&logoColor=white">
     </div>
     <div>
-        <h4>Database</h4>
+        <h4> 🖌️ CSS frameworks</h4>
+        <img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-%238348db?style=for-the-badge&logo=bootstrap&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white">
+    </div>
+    <div>
+        <h4>🗄️ Database</h4>
         <img alt="Static Badge" src="https://img.shields.io/badge/SQL%20Server-%23D71F00?style=for-the-badge&logoColor=white">
         <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white">
         <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white">
     </div>
     <div>
-        <h4>Backend</h4>
+        <h4>🖥️ Backend</h4>
         <img alt="Static Badge" src="https://img.shields.io/badge/C%23%20CSharp-%23A100FF?style=for-the-badge">
         <img alt="Static Badge" src="https://img.shields.io/badge/vb%20visual%20basic-%23A100FF?style=for-the-badge">
+        <img alt="Static Badge" src="https://img.shields.io/badge/node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&logoColor=white">
     </div>
     <div>
-        <h4>Version control</h4>
+        <h4>🛠️ Version control</h4>
         <img alt="Static Badge" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white">
         <img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white">
     </div>
@@ -56,8 +61,6 @@
 
 <section align="left">
     <h2 >📚 Learning stack</h2>
-    <img alt="Static Badge" src="https://img.shields.io/badge/node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
 </section>
 
