@@ -6,7 +6,7 @@
     <h2>👩‍💻 About Me</h2>
     <ul>
         <li>🔭 I'm working as an RPA developer</li>
-        <li>📚 I am currently studying to become a Full Stack Developer</li>
+        <li>🚀 Full Stack Developer in my free time</li>
     </ul>
 </section>
 
